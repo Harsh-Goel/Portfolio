@@ -1,6 +1,6 @@
 # Portfolio
 
-
+<h1><a href="https://harsh-goel.github.io/Portfolio/">Click Here </a> to open the website</h1>
 <h1>Welcome to My Portfolio</h1>
 
 Hello! I'm Harsh , a passionate and creative frontend developer. With a strong foundation in web technologies and a keen eye for design, I'm dedicated to crafting immersive and user-friendly digital experiences. Whether it's bringing mockups to life or optimizing user interfaces for seamless interactions, I thrive on transforming ideas into captivating realities.
